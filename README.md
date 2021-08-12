@@ -1,2 +1,3 @@
 # astrodynamics
-Code (Python) on astrodynamics problems.
+Code (Python) on fundamental problems of astrodynamics.
+Objective: corroborate theory.
